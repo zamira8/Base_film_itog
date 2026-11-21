@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-frontmatter==1.1.0
+networkx==3.4.2
+python-dotenv==1.0.1
+# Необязательно: используется только если задан OPENAI_API_KEY
+openai>=1.0.0
